@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Matrix_maeny/AndroidStudioProjects/Stories/app/src/main/res/drawable-v24/ic_baseline_add_circle_outline_24.xml" value="0.2255" />
+        <entry key="..\:/Users/Matrix_maeny/AndroidStudioProjects/Stories/app/src/main/res/drawable/circular_image_bg.xml" value="0.2255" />
+        <entry key="..\:/Users/Matrix_maeny/AndroidStudioProjects/Stories/app/src/main/res/drawable/follow_bg.xml" value="0.2255" />
+        <entry key="..\:/Users/Matrix_maeny/AndroidStudioProjects/Stories/app/src/main/res/drawable/following_bg.xml" value="0.2255" />
+        <entry key="..\:/Users/Matrix_maeny/AndroidStudioProjects/Stories/app/src/main/res/drawable/ic_baseline_chat_24.xml" value="0.2255" />
+        <entry key="..\:/Users/Matrix_maeny/AndroidStudioProjects/Stories/app/src/main/res/drawable/ic_baseline_home_24.xml" value="0.2255" />
+        <entry key="..\:/Users/Matrix_maeny/AndroidStudioProjects/Stories/app/src/main/res/drawable/like_btn_bg.xml" value="0.2255" />
+        <entry key="..\:/Users/Matrix_maeny/AndroidStudioProjects/Stories/app/src/main/res/drawable/post_edit_txt_bg.xml" value="0.2255" />
+        <entry key="..\:/Users/Matrix_maeny/AndroidStudioProjects/Stories/app/src/main/res/drawable/register_btn_bg.xml" value="0.2255" />
+        <entry key="..\:/Users/Matrix_maeny/AndroidStudioProjects/Stories/app/src/main/res/drawable/sign_up_cover_bg.xml" value="0.2255" />
+        <entry key="..\:/Users/Matrix_maeny/AndroidStudioProjects/Stories/app/src/main/res/drawable/splash_background.xml" value="0.2255" />
+        <entry key="..\:/Users/Matrix_maeny/AndroidStudioProjects/Stories/app/src/main/res/drawable/verify_btn_bg.xml" value="0.2255" />
+        <entry key="..\:/Users/Matrix_maeny/AndroidStudioProjects/Stories/app/src/main/res/layout/activity_about.xml" value="0.25" />
+        <entry key="..\:/Users/Matrix_maeny/AndroidStudioProjects/Stories/app/src/main/res/layout/activity_comment_viewer.xml" value="0.2359375" />
+        <entry key="..\:/Users/Matrix_maeny/AndroidStudioProjects/Stories/app/src/main/res/layout/activity_edit_profile.xml" value="0.25" />
+        <entry key="..\:/Users/Matrix_maeny/AndroidStudioProjects/Stories/app/src/main/res/layout/activity_follow.xml" value="0.264" />
+        <entry key="..\:/Users/Matrix_maeny/AndroidStudioProjects/Stories/app/src/main/res/layout/activity_follow_viewer.xml" value="0.20521590423257802" />
+        <entry key="..\:/Users/Matrix_maeny/AndroidStudioProjects/Stories/app/src/main/res/layout/activity_login.xml" value="0.2359375" />
+        <entry key="..\:/Users/Matrix_maeny/AndroidStudioProjects/Stories/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/Matrix_maeny/AndroidStudioProjects/Stories/app/src/main/res/layout/activity_post.xml" value="0.25" />
+        <entry key="..\:/Users/Matrix_maeny/AndroidStudioProjects/Stories/app/src/main/res/layout/activity_post_viewer.xml" value="0.2359375" />
+        <entry key="..\:/Users/Matrix_maeny/AndroidStudioProjects/Stories/app/src/main/res/layout/activity_profile.xml" value="0.264" />
+        <entry key="..\:/Users/Matrix_maeny/AndroidStudioProjects/Stories/app/src/main/res/layout/activity_profile_pic_viewer.xml" value="0.25" />
+        <entry key="..\:/Users/Matrix_maeny/AndroidStudioProjects/Stories/app/src/main/res/layout/activity_saved_posts.xml" value="0.2359375" />
+        <entry key="..\:/Users/Matrix_maeny/AndroidStudioProjects/Stories/app/src/main/res/layout/activity_sign_up.xml" value="0.2359375" />
+        <entry key="..\:/Users/Matrix_maeny/AndroidStudioProjects/Stories/app/src/main/res/layout/activity_splash_screen.xml" value="0.264" />
+        <entry key="..\:/Users/Matrix_maeny/AndroidStudioProjects/Stories/app/src/main/res/layout/chat_model.xml" value="0.264" />
+        <entry key="..\:/Users/Matrix_maeny/AndroidStudioProjects/Stories/app/src/main/res/layout/comment_model.xml" value="0.20521590423257802" />
+        <entry key="..\:/Users/Matrix_maeny/AndroidStudioProjects/Stories/app/src/main/res/layout/follow_model.xml" value="0.264" />
+        <entry key="..\:/Users/Matrix_maeny/AndroidStudioProjects/Stories/app/src/main/res/layout/fragment_home.xml" value="0.25" />
+        <entry key="..\:/Users/Matrix_maeny/AndroidStudioProjects/Stories/app/src/main/res/layout/fragment_logout.xml" value="0.2359375" />
+        <entry key="..\:/Users/Matrix_maeny/AndroidStudioProjects/Stories/app/src/main/res/layout/fragment_notification.xml" value="0.25" />
+        <entry key="..\:/Users/Matrix_maeny/AndroidStudioProjects/Stories/app/src/main/res/layout/fragment_profile.xml" value="0.264" />
+        <entry key="..\:/Users/Matrix_maeny/AndroidStudioProjects/Stories/app/src/main/res/layout/fragment_search.xml" value="0.25" />
+        <entry key="..\:/Users/Matrix_maeny/AndroidStudioProjects/Stories/app/src/main/res/layout/post_model.xml" value="0.24895833333333334" />
+        <entry key="..\:/Users/Matrix_maeny/AndroidStudioProjects/Stories/app/src/main/res/layout/search_model.xml" value="0.24895833333333334" />
+        <entry key="..\:/Users/Matrix_maeny/AndroidStudioProjects/Stories/app/src/main/res/layout/verification_dialog.xml" value="0.24895833333333334" />
+        <entry key="..\:/Users/Matrix_maeny/AndroidStudioProjects/Stories/app/src/main/res/menu/bottom_nav_menu.xml" value="0.25" />
+        <entry key="..\:/Users/Matrix_maeny/AndroidStudioProjects/Stories/app/src/main/res/menu/post_menu.xml" value="0.25" />
+        <entry key="..\:/Users/Matrix_maeny/AndroidStudioProjects/Stories/app/src/main/res/menu/profile_edit_menu.xml" value="0.25" />
+        <entry key="..\:/Users/Matrix_maeny/AndroidStudioProjects/Stories/app/src/main/res/menu/profile_pic_menu.xml" value="0.25" />
+        <entry key="..\:/Users/Matrix_maeny/AndroidStudioProjects/Stories/app/src/main/res/menu/toolbar_menu.xml" value="0.25" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

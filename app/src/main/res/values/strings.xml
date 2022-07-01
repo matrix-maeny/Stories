@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Stories</string>
+
+    <string name="su_already_have_an_acc">Already have an account? Log in</string>
+    <string name="enter_username">Enter Username</string>
+    <string name="enter_email">Enter email</string>
+    <string name="enter_password">Enter password</string>
+    <string name="lg_dont_have_an_acc">Don\'t have an account? Sign up</string>
+    <string name="login">LOGIN</string>
+    <string name="sign_up">SIGN UP</string>
+    <string name="verify_btn_txt">Verify</string>
+    <string name="your_email_should_be_verified">Your email should be verified</string>
+    <string name="email_verification">Email verification</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+    <string name="enter_title">Enter title…!</string>
+    <string name="enter_tag_line">Enter Tag line..!</string>
+    <string name="story_title">Story title :</string>
+    <string name="tag_line">Tag Line :</string>
+    <string name="enter_story">Enter Story..!</string>
+    <string name="enter_story_heading">Story :</string>
+    <string name="any_other_references">References :</string>
+    <string name="references">Any references..! (optional)</string>
+    <string name="enter_comment">Enter comment..!</string>
+    <string name="content">Content :</string>
+</resources>

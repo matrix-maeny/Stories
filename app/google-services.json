@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "811401302670",
+    "project_id": "stories-b1bed",
+    "storage_bucket": "stories-b1bed.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:811401302670:android:ab605daa2abbec4b41afdf",
+        "android_client_info": {
+          "package_name": "com.matrix_maeny.stories"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "811401302670-2nvovsgmaf79df1ppkvbuao2qpe0e4p4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlti00TLhZVEKnFjxyV0tPWmwrX7TT1UY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "811401302670-2nvovsgmaf79df1ppkvbuao2qpe0e4p4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
